@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on FPS game
-- 📫 How to reach me daniel.balous@seznam.cz
+- 📫 How to reach me daniel.balous7@seznam.cz
 
 <!---
 danie9150/danie9150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
